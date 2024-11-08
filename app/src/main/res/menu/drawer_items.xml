@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checkable="true"
+        android:icon="@drawable/fictional"
+        android:id="@+id/fictional"
+        android:title="Hư cấu"/>
+    <item
+        android:checkable="true"
+        android:icon="@drawable/ic_ficc"
+        android:id="@+id/non_fictional"
+        android:title="Phi hư cấu"/>
+    <item
+        android:checkable="true"
+        android:icon="@drawable/ic_chilldren"
+        android:id="@+id/chil"
+        android:title="Thiếu nhi"/>
+
+<!--    <item android:id="@+id/other"-->
+<!--        android:title="Khác"-->
+<!--        >-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:checkable="true"-->
+<!--                android:icon="@drawable/ic_settings"-->
+<!--                android:id="@+id/setting"-->
+<!--                android:title="Cài đặt"/>-->
+<!--            <item-->
+<!--                android:checkable="true"-->
+<!--                android:icon="@drawable/ic_settings"-->
+<!--                android:id="@+id/logout"-->
+<!--                android:title="Đăng xuất"/>-->
+
+
+<!--        </menu>-->
+
+<!--    </item>-->
+
+</menu>

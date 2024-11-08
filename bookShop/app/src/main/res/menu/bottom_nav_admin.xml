@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homeNav"
+        />
+    <item android:title="Thêm sách"
+        android:icon="@drawable/ic_books"
+        android:id="@+id/bookNav"
+        />
+    <item android:title="Thành viên"
+        android:icon="@drawable/phonebook"
+        android:id="@+id/customerNav"
+        />
+    <item android:title="Đơn hàng"
+        android:icon="@drawable/ic_giohang"
+        android:id="@+id/donHangNav"
+        />
+    <item android:title="Thống kê"
+        android:icon="@drawable/ic_thongke"
+        android:id="@+id/chartNav"
+        />
+
+</menu>
